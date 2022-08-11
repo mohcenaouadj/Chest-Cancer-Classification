@@ -15,4 +15,4 @@ Link : https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 - Matplotlib
 
 
-[Chest CT-Scans](09LUBNG-SCREENING1-videoSixteenByNine3000.jpg)
+[Chest CT-Scans](https://github.com/mohcenaouadj/Chest-Cancer-Classification/blob/6dd557c31ea224c6b4a4aa20b00c09601ebb278a/09LUBNG-SCREENING1-videoSixteenByNine3000.jpg)
